@@ -1,0 +1,37 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="url(#gradient3)"/>
+  <defs>
+    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- HPC cluster representation -->
+  <rect x="150" y="150" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="250" y="150" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="350" y="150" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="450" y="150" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  
+  <rect x="150" y="230" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="250" y="230" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="350" y="230" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  <rect x="450" y="230" width="80" height="60" rx="8" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/>
+  
+  <!-- Cloud icons -->
+  <ellipse cx="700" cy="180" rx="60" ry="30" fill="rgba(255,255,255,0.3)"/>
+  <ellipse cx="680" cy="160" rx="40" ry="20" fill="rgba(255,255,255,0.3)"/>
+  <ellipse cx="720" cy="160" rx="40" ry="20" fill="rgba(255,255,255,0.3)"/>
+  
+  <ellipse cx="900" cy="220" rx="60" ry="30" fill="rgba(255,255,255,0.3)"/>
+  <ellipse cx="880" cy="200" rx="40" ry="20" fill="rgba(255,255,255,0.3)"/>
+  <ellipse cx="920" cy="200" rx="40" ry="20" fill="rgba(255,255,255,0.3)"/>
+  
+  <!-- Connection lines -->
+  <line x1="530" y1="180" x2="640" y2="180" stroke="rgba(255,255,255,0.4)" stroke-width="3"/>
+  <line x1="760" y1="180" x2="840" y2="210" stroke="rgba(255,255,255,0.4)" stroke-width="3"/>
+  
+  <rect x="100" y="350" width="1000" height="200" rx="20" fill="rgba(255,255,255,0.1)"/>
+  <text x="600" y="420" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="40" font-weight="bold">HPC ML Pipelines</text>
+  <text x="600" y="470" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="Arial, sans-serif" font-size="24">High-Performance Computing & Cloud ML</text>
+  <text x="600" y="510" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">Python • AWS • GCP • HPC • Distributed Computing</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <defs>
+    <radialGradient id="galaxyCore16" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#4A90E2" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.3"/>
+    </radialGradient>
+  </defs>
+  
+  <rect width="16" height="16" fill="#0F172A" rx="2"/>
+  <circle cx="8" cy="8" r="7" fill="url(#galaxyCore16)" opacity="0.7"/>
+  
+  <!-- Very simplified DNA for 16px -->
+  <g transform="translate(8,8)">
+    <path d="M -2 -3 Q 0 0 2 3" fill="none" stroke="#60A5FA" stroke-width="1" opacity="0.8"/>
+    <path d="M 2 -3 Q 0 0 -2 3" fill="none" stroke="#A855F7" stroke-width="1" opacity="0.8"/>
+    <line x1="-1.5" y1="-1.5" x2="1.5" y2="-1.5" stroke="#FFFFFF" stroke-width="0.3" opacity="0.6"/>
+    <line x1="-1.5" y1="1.5" x2="1.5" y2="1.5" stroke="#FFFFFF" stroke-width="0.3" opacity="0.6"/>
+  </g>
+  
+  <!-- Minimal data points -->
+  <circle cx="4" cy="4" r="0.5" fill="#60A5FA" opacity="0.8"/>
+  <circle cx="12" cy="4" r="0.5" fill="#60A5FA" opacity="0.8"/>
+  <circle cx="4" cy="12" r="0.5" fill="#60A5FA" opacity="0.8"/>
+  <circle cx="12" cy="12" r="0.5" fill="#60A5FA" opacity="0.8"/>
+</svg>

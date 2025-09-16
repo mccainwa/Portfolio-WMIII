@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <!-- Gradient for galaxy core -->
+    <radialGradient id="galaxyCore" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.9"/>
+      <stop offset="30%" stop-color="#FFA500" stop-opacity="0.7"/>
+      <stop offset="70%" stop-color="#4A90E2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.3"/>
+    </radialGradient>
+    
+    <!-- Gradient for DNA helix -->
+    <linearGradient id="dnaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    
+    <!-- Gradient for data points -->
+    <radialGradient id="dataGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.4"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Dark space background -->
+  <rect width="64" height="64" fill="#0F172A" rx="8"/>
+  
+  <!-- Galaxy spiral background -->
+  <circle cx="32" cy="32" r="28" fill="url(#galaxyCore)" opacity="0.6"/>
+  
+  <!-- Spiral arms -->
+  <path d="M 32 4 Q 50 20 45 32 Q 40 50 32 45 Q 14 40 19 32 Q 24 14 32 4" 
+        fill="none" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+  <path d="M 32 4 Q 14 20 19 32 Q 24 50 32 45 Q 50 40 45 32 Q 40 14 32 4" 
+        fill="none" stroke="#A855F7" stroke-width="1.5" opacity="0.4"/>
+  
+  <!-- Central DNA helix structure -->
+  <g transform="translate(32,32)">
+    <!-- DNA backbone -->
+    <path d="M -8 -12 Q -4 -6 0 0 Q 4 6 8 12" 
+          fill="none" stroke="url(#dnaGradient)" stroke-width="2" opacity="0.8"/>
+    <path d="M 8 -12 Q 4 -6 0 0 Q -4 6 -8 12" 
+          fill="none" stroke="url(#dnaGradient)" stroke-width="2" opacity="0.8"/>
+    
+    <!-- DNA base pairs -->
+    <line x1="-6" y1="-9" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+    <line x1="-4" y1="-3" x2="4" y2="-3" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+    <line x1="-4" y1="3" x2="4" y2="3" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+    <line x1="-6" y1="9" x2="6" y2="9" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+  </g>
+  
+  <!-- Data visualization nodes -->
+  <circle cx="18" cy="18" r="2" fill="url(#dataGlow)"/>
+  <circle cx="46" cy="18" r="1.5" fill="url(#dataGlow)"/>
+  <circle cx="18" cy="46" r="1.5" fill="url(#dataGlow)"/>
+  <circle cx="46" cy="46" r="2" fill="url(#dataGlow)"/>
+  
+  <!-- Connecting data lines -->
+  <line x1="18" y1="18" x2="32" y2="20" stroke="#60A5FA" stroke-width="0.5" opacity="0.5"/>
+  <line x1="46" y1="18" x2="32" y2="20" stroke="#60A5FA" stroke-width="0.5" opacity="0.5"/>
+  <line x1="18" y1="46" x2="32" y2="44" stroke="#60A5FA" stroke-width="0.5" opacity="0.5"/>
+  <line x1="46" y1="46" x2="32" y2="44" stroke="#60A5FA" stroke-width="0.5" opacity="0.5"/>
+  
+  <!-- Stars for cosmic theme -->
+  <circle cx="12" cy="12" r="0.5" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="52" cy="12" r="0.5" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="12" cy="52" r="0.5" fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="52" cy="52" r="0.5" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="8" cy="32" r="0.3" fill="#FFFFFF" opacity="0.5"/>
+  <circle cx="56" cy="32" r="0.3" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- Subtle initials "WM" integrated into design -->
+  <text x="32" y="56" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="6" font-weight="bold" fill="#60A5FA" opacity="0.7">WM</text>
+</svg>

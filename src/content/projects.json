@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "flowfixlabs-website",
+    "title": "FlowFix Labs Website",
+    "short": "Modern company website with GitHub Pages deployment",
+    "description": "Professional company website for FlowFix Labs featuring modern design, responsive layout, and automated deployment pipeline. Built with HTML, CSS, and JavaScript, deployed via GitHub Pages with custom domain configuration.",
+    "tags": ["HTML", "CSS", "JavaScript", "Web Development", "GitHub Pages"],
+    "year": 2025,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/FlowFixLabs-Website",
+        "label": "View Source"
+      },
+      {
+        "type": "live",
+        "url": "https://mccainwa.github.io/FlowFixLabs-Website/",
+        "label": "Live Site"
+      }
+    ],
+    "cover": "/images/projects/flowfixlabs.jpg",
+    "impact": [
+      "Professional web presence for FlowFix Labs company",
+      "Automated deployment pipeline with GitHub Actions",
+      "Mobile-responsive design with modern UI/UX",
+      "SEO optimized for business visibility"
+    ],
+    "tech": ["HTML5", "CSS3", "JavaScript", "GitHub Pages", "Responsive Design"],
+    "featured": true
+  },
+  {
+    "slug": "jobfinderai",
+    "title": "JobFinderAI",
+    "short": "AI-powered job application automation system with bulletproof reliability",
+    "description": "A comprehensive job application automation system that combines AI-powered job discovery with bulletproof application submission. Features include automatic job finding across 15+ major platforms, smart form filling, AI cover letter generation, and robust error recovery with 100% success rate.",
+    "tags": ["Python", "AI/ML", "Automation", "Streamlit", "Web Scraping"],
+    "year": 2025,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/JobFinderAI",
+        "label": "View Source"
+      }
+    ],
+    "cover": "/images/projects/jobfinderai.jpg",
+    "impact": [
+      "100% application success rate with zero failures",
+      "10x faster than manual applications (23-30 seconds per application)",
+      "Supports 15+ major ATS platforms including Lever, Greenhouse, Workday",
+      "Automated cookie consent handling for 20+ patterns"
+    ],
+    "tech": ["Python", "Selenium", "Streamlit", "OpenAI API", "Pandas", "BeautifulSoup"],
+    "featured": true
+  },
+  {
+    "slug": "proteome-aac-analysis",
+    "title": "Proteome-AAC-Analysis",
+    "short": "Advanced proteome analysis using amino acid composition methods",
+    "description": "Comprehensive proteome analysis project focusing on amino acid composition (AAC) analysis for protein classification and functional prediction. Features advanced bioinformatics algorithms, statistical analysis, and machine learning approaches for proteome characterization.",
+    "tags": ["Python", "Bioinformatics", "Proteomics", "Machine Learning", "Research"],
+    "year": 2023,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/Proteome-AAC-Analysis",
+        "label": "View Source"
+      }
+    ],
+    "cover": "/images/projects/bioinformatics-pipeline.jpg",
+    "impact": [
+      "Developed novel AAC-based protein classification methods",
+      "Analyzed proteomes from multiple species",
+      "Implemented machine learning models for functional prediction",
+      "Contributed to computational biology research"
+    ],
+    "tech": ["Python", "Biopython", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+    "featured": true
+  },
+  {
+    "slug": "dr-miller-lab-mp",
+    "title": "Dr. Miller Lab - Viral Mutation Prediction",
+    "short": "ML pipeline for viral protein mutation analysis and prediction",
+    "description": "Advanced machine learning research project conducted at Loyola University's Dr. Miller Lab. Focuses on predicting viral protein mutations using deep learning models including VAE, RNN, and LSTM architectures for understanding viral evolution patterns.",
+    "tags": ["Python", "Machine Learning", "Bioinformatics", "Research", "Deep Learning"],
+    "year": 2023,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/Dr.Miller-Lab-MP",
+        "label": "View Source"
+      }
+    ],
+    "cover": "/images/projects/viral-mutation.jpg",
+    "impact": [
+      "Developed novel ML approaches for viral mutation prediction",
+      "Mentored undergraduate students in bioinformatics methodologies",
+      "Improved prediction accuracy by 25% over baseline models",
+      "Integrated with HPC clusters for large-scale analysis"
+    ],
+    "tech": ["Python", "TensorFlow", "PyTorch", "Biopython", "VAE", "RNN", "LSTM"],
+    "featured": true
+  },
+  {
+    "slug": "automated-dataset-explorer",
+    "title": "Automated Dataset Explorer",
+    "short": "ML-powered data analysis tool with automated insights and SHAP visualizations",
+    "description": "Advanced data exploration platform that automatically analyzes datasets, generates insights, and provides interactive visualizations. Features automated feature engineering, statistical analysis, correlation detection, and SHAP-based model interpretability for comprehensive data understanding.",
+    "tags": ["Python", "Machine Learning", "Data Analysis", "SHAP", "Streamlit"],
+    "year": 2024,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/Automated-Dataset-Explorer",
+        "label": "View Source"
+      }
+    ],
+    "cover": "/images/projects/dataset-explorer.jpg",
+    "impact": [
+      "Automated 90% of exploratory data analysis workflows",
+      "Reduced data analysis time from hours to minutes",
+      "Scalable cloud architecture supporting business growth",
+      "Real-time analytics and monitoring dashboards"
+    ],
+    "tech": ["Python", "Pandas", "Scikit-learn", "SHAP", "Streamlit", "Plotly", "Seaborn"],
+    "featured": true
+  },
+  {
+    "slug": "btcai",
+    "title": "BTCAI - Bitcoin Price Prediction",
+    "short": "Advanced ML system for cryptocurrency price prediction using time series analysis",
+    "description": "Sophisticated machine learning system for Bitcoin price prediction using advanced time series analysis, technical indicators, and ensemble methods. Features real-time data processing, multiple prediction models, and comprehensive backtesting framework.",
+    "tags": ["Python", "Machine Learning", "Time Series", "Cryptocurrency", "Finance"],
+    "year": 2024,
+    "personaBias": "Data Scientists",
+    "links": [
+      {
+        "type": "repo",
+        "url": "https://github.com/mccainwa/BTCAI",
+        "label": "View Source"
+      }
+    ],
+    "cover": "/images/projects/btcai.jpg",
+    "impact": [
+      "Achieved 78% prediction accuracy on 24-hour price movements",
+      "Processed real-time market data from multiple exchanges",
+      "Implemented ensemble of LSTM, ARIMA, and Random Forest models",
+      "Backtested strategies across 3+ years of historical data"
+    ],
+    "tech": ["Python", "TensorFlow", "LSTM", "ARIMA", "Pandas", "NumPy", "Scikit-learn"],
+    "featured": true
+  }
+]

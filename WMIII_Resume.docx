@@ -1,0 +1,44 @@
+Walter W. McCain III
+Data Scientist | Bioinformatics | Cloud & AI Automation
+Chicago, IL | (303) 898-1341 | Param2002@outlook.com
+LinkedIn: https://linkedin.com/in/waltermccainiii | GitHub: https://github.com/mccainwa
+Professional Summary
+Data Scientist and Bioinformatics Engineer with expertise in machine learning, bioinformatics, and cloud computing. Proven ability to design and deploy predictive models, high-performance computing (HPC) pipelines, and automation solutions in healthcare, academic research, and business operations. Skilled in Python, R, SQL, AWS, GCP, and Docker. Adept at delivering reproducible, production-ready workflows that reduce manual effort, improve accuracy, and accelerate scientific discovery.
+Professional Experience
+FlowFix Labs — Founder & Automation Engineer — Chicago, IL | Jul 2025 – Present
+Developed automation and AI-driven solutions for small businesses, reducing repetitive tasks and streamlining operations.
+Built Google Workspace and Google Cloud pipelines with Apps Script, API integrations, and Dockerized Python workflows.
+Implemented AI-powered reporting and customer engagement tools that improved response times and lead conversion.
+Designed end-to-end ETL pipelines and containerized solutions, ensuring scalability and reproducibility.
+Loyola University Chicago, Stritch School of Medicine – Dr. Miller’s Lab — Research Assistant & Data Scientist — Maywood, IL | Feb 2023 – Present
+Built machine learning pipelines (VAE, RNN, LSTM in Python) for protein mutation prediction, integrating molecular docking and dynamics outputs.
+Authored reproducible genomics and proteomics scripts in Python and R with logging and visualization, enabling reuse by 10+ collaborators.
+Deployed HPC and AWS EC2 workloads, parallelizing jobs and achieving 70% reduction in runtimes.
+Mentored 15+ interns and junior researchers on ML workflows, Python programming, and HPC job optimization.
+Kumon — Instructor & Center Manager — Highlands Ranch & Parker, CO | Nov 2015 – Present
+Directed instruction and operations for a center serving 200+ families, managed payroll, scheduling, and communications.
+Automated student reporting with Python and Google Apps Script, reducing weekly reporting time by 50%.
+Implemented workflow automation and digital tools to support scalability and staff efficiency.
+Selected Projects
+Viral Amino Acid Mutation Toolkit — Engineered ML models (VAE, RNN, LSTM in Python) to predict viral protein mutations from public datasets; identified evolutionary hotspots, accelerating virology research.
+Bioinformatics Amino Acid Composition Pipeline — Built a reproducible Python + R pipeline to calculate amino acid composition from FASTA files; automated CSV and visualization outputs, improving lab throughput.
+High-Performance ML Pipelines on HPC/AWS — Deployed scalable ML workflows for protein mutation prediction and structural analysis; optimized EC2/HPC jobs, reducing runtimes by 70%.
+FlowFix Labs Automation Suite — Delivered automation tools for small businesses, including Google Workspace and GCP pipelines, Python + Docker data workflows, and AI-powered customer engagement bots.
+Realtor Pipeline Automation — Automated PDF generation of real estate listings using Python + YAML + Jinja2 on Ubuntu Hyper-V; cut manual preparation work by 20+ hours/month.
+Core Skills
+Machine Learning (Supervised, Unsupervised, Deep Learning, NLP)
+Bioinformatics (Genomics, Proteomics, Computational Biology)
+Programming: Python, R, SQL, NoSQL, Bash
+Cloud Platforms: AWS (S3, EC2, SageMaker, Lambda), GCP (BigQuery, Dataflow), Snowflake
+Tools: Docker, Linux, High-Performance Computing (HPC), APIs, ETL Pipelines
+Data Visualization: Power BI, Matplotlib, Seaborn, ggplot2
+Automation: Google Workspace (Apps Script), Microsoft Power Platform
+Education
+Loyola University Chicago — B.S. in Bioinformatics, 2024
+Coursework: Machine Learning, Cloud Computing, Biostatistics, Database Systems, Computational Biology
+Presented research at St. Albert’s Day Symposium
+Certifications
+AWS Certified Cloud Practitioner
+AWS Machine Learning – Associate (in progress)
+Google Cloud Data Engineer (Coursera)
+Microsoft Power Platform & Business Analyst

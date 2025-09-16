@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="url(#gradient2)"/>
+  <defs>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="150" cy="100" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="1050" cy="530" r="100" fill="rgba(255,255,255,0.05)"/>
+  <rect x="100" y="250" width="1000" height="200" rx="20" fill="rgba(255,255,255,0.1)"/>
+  <text x="600" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">FlowFixLabs</text>
+  <text x="600" y="370" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="Arial, sans-serif" font-size="24">Modern Company Website</text>
+  <text x="600" y="410" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">HTML • CSS • JavaScript • GitHub Pages</text>
+</svg>

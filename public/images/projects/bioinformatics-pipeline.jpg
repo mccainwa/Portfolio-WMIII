@@ -1,0 +1,47 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="url(#gradient2)"/>
+  <defs>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Amino acid sequence representation -->
+  <rect x="150" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="210" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.4)"/>
+  <rect x="270" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="330" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.5)"/>
+  <rect x="390" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="450" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.4)"/>
+  <rect x="510" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="570" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.5)"/>
+  <rect x="630" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="690" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.4)"/>
+  <rect x="750" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="810" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.5)"/>
+  <rect x="870" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  <rect x="930" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.4)"/>
+  <rect x="990" y="180" width="40" height="40" rx="8" fill="rgba(255,255,255,0.3)"/>
+  
+  <!-- Amino acid letters -->
+  <text x="170" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">A</text>
+  <text x="230" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">R</text>
+  <text x="290" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">G</text>
+  <text x="350" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">L</text>
+  <text x="410" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">V</text>
+  <text x="470" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">P</text>
+  <text x="530" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">S</text>
+  <text x="590" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">T</text>
+  <text x="650" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">C</text>
+  <text x="710" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">M</text>
+  <text x="770" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">F</text>
+  <text x="830" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Y</text>
+  <text x="890" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">W</text>
+  <text x="950" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">H</text>
+  <text x="1010" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">K</text>
+  
+  <rect x="100" y="350" width="1000" height="200" rx="20" fill="rgba(255,255,255,0.1)"/>
+  <text x="600" y="420" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="38" font-weight="bold">Bioinformatics Pipeline</text>
+  <text x="600" y="470" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="Arial, sans-serif" font-size="24">Amino Acid Composition Analysis</text>
+  <text x="600" y="510" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">Python • R • Biopython • Statistical Analysis</text>
+</svg>

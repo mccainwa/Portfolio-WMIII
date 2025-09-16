@@ -1,0 +1,66 @@
+:root {
+  /* Dark space theme - deep space colors */
+  --color-cyber-blue: #00d4ff;
+  --color-neon-green: #39ff14;
+  --color-electric-purple: #bf00ff;
+  --color-plasma-pink: #ff0080;
+  --color-quantum-orange: #ff6600;
+
+  /* Dark glow effects */
+  --glow-cyber: 0 0 20px var(--color-cyber-blue);
+  --glow-neon: 0 0 20px var(--color-neon-green);
+  --glow-electric: 0 0 20px var(--color-electric-purple);
+  --glow-plasma: 0 0 20px var(--color-plasma-pink);
+
+  --color-bg-primary: #0a0a0a;
+  --color-bg-secondary: #1a1a1a;
+  --color-bg-tertiary: #2a2a2a;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #a0a0a0;
+  --color-border: #333333;
+
+  /* Animation durations */
+  --duration-fast: 0.2s;
+  --duration-normal: 0.3s;
+  --duration-slow: 0.5s;
+
+  /* Z-index layers */
+  --z-background: -10;
+  --z-content: 1;
+  --z-header: 50;
+  --z-modal: 100;
+}
+
+/* Futuristic utilities */
+.cyber-glow {
+  box-shadow: var(--glow-cyber);
+}
+
+.neon-glow {
+  box-shadow: var(--glow-neon);
+}
+
+.electric-glow {
+  box-shadow: var(--glow-electric);
+}
+
+.plasma-glow {
+  box-shadow: var(--glow-plasma);
+}
+
+.holographic {
+  background: linear-gradient(
+    45deg,
+    var(--color-cyber-blue),
+    var(--color-electric-purple),
+    var(--color-plasma-pink),
+    var(--color-quantum-orange)
+  );
+  background-size: 400% 400%;
+  animation: holographic 4s ease-in-out infinite;
+}
+
+@keyframes holographic {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
