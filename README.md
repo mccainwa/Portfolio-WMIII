@@ -2,6 +2,22 @@
 
 A modern, space-themed portfolio website showcasing data science and bioinformatics expertise, built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
+## 🎬 Website Preview
+
+**Experience the enhanced cosmic portfolio in action:**
+
+https://github.com/mccainwa/Portfolio-WMIII/assets/48781009/PortfolioWebsiteDemo.mp4
+
+*This demonstration showcases the vibrant cosmic background with realistic galaxy animations, professional space-themed favicon, correctly ordered featured projects, and smooth interactive elements - all optimized for performance without distracting visual artifacts.*
+
+**Key highlights in the demo:**
+- ✨ **Enhanced Cosmic Background**: Vibrant galaxies, star formation regions, and nebulae with NASA-inspired designs
+- 🎯 **Professional Favicon**: Space-themed icon representing data science and bioinformatics expertise
+- 📂 **Featured Projects**: Correctly ordered portfolio matching GitHub pinned repositories
+- 🤖 **AI Assistant**: Personal chatbot that speaks about Walter in third person
+- 🎨 **Smooth Animations**: Optimized cosmic effects without geometric artifacts
+- 📱 **Professional Design**: Clean, accessible interface that enhances rather than distracts
+
 ## 🚀 Features
 
 - **Modern Tech Stack**: React 18, TypeScript, Vite
